@@ -2,7 +2,7 @@
 // For example:
 //input:4, 5, 6, 1, 2, 3   output:3
 
-class RotArray
+class RotationDistance
 {
   public static int distance(int[] a,int start,int end)
   {
