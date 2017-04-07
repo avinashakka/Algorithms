@@ -1,4 +1,5 @@
 //Given a string str1, order the input string str2 as per str1's order.
+//Example: str1="zstuvba" str2="azv" output:"zva"
 
 import java.io.*;
 import java.util.*;
@@ -23,7 +24,7 @@ class OrderString
         a[i] = map.get(this.s2.charAt(i));
     }
 
-    Arrays.sort(a);//merge sort
+    Arrays.sort(a);//merge sort if needed
 
     StringBuilder sb = new StringBuilder();
 
