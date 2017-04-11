@@ -17,7 +17,7 @@ ListNode(int x)
 class MergeSortedLists
 {
 
-  public 
+  public ListNode mergeLists(ListNode l1,ListNode l2)
 
 
 }
