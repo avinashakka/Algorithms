@@ -1,4 +1,6 @@
 //Find all the permutation of a string
+import java.io.*;
+import java.util.*;
 
 class StringPermutation
 {
