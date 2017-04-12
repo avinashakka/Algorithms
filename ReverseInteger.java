@@ -4,7 +4,7 @@ class ReverseInteger
 {
   public static void main (String[] args)
   {
-    int n = 1234567891;
+    int n = 123456789;
     int given = n;
     int revNum = 0;
     int rem = 0;
