@@ -53,7 +53,7 @@ public static void subset3(int[] a)
 public static void main(String[] args)
 {
   int[] a = {12, 3, 4, 1, 6, 9};
-  Arrays.sort(a);
+  Arrays.sort(a); //or any nlog(n) impementation of sorting
   subset3(a);
 }
 }
